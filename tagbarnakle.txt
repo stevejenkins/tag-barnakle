@@ -1,5 +1,5 @@
 # Tag Barnakle Domain Block List
-# https://github.com/stevejenkins/tag-barnakle/blob/master/tagbarnakle.txt
+# https://raw.githubusercontent.com/stevejenkins/tag-barnakle/master/tagbarnakle.txt
 # Updated April 22, 2020
 
 # BARNAKLE DOMAINS
