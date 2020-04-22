@@ -1,7 +1,6 @@
 # Tag Barnakle Domain Block List (TB-DBL)
-A Pi-hole ready blocklist of "Tag Barnakle" hosts compromised by a hacker group.
+A Pi-hole ready blocklist of "Tag Barnakle" hosts compromised by a hacker group. Add the "Raw" version of the block list to your Pi-hole's Ad lists:
 
-Add the "Raw" version of the block list to your Pi-hole's Ad lists:
 ```https://raw.githubusercontent.com/stevejenkins/tag-barnakle/master/tagbarnakle.txt```
 
 For more info see:
