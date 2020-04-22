@@ -16,9 +16,10 @@ myadvertnet.com
 net4net.net 
 netlineads.com 
 piclivenet.com 
+promoadsense.com
 promoadsense.com 
 publicenred.com 
-publizitate.com 
+publizitate.com
 
 # COMPROMISED AD SERVERS
 10.rallyad-server.net 
