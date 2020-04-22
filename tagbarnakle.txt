@@ -4,33 +4,20 @@
 
 # BARNAKLE DOMAINS
 ads6net.com 
-ads6net.com 
-advertwork.com 
 advertwork.com 
 appsadvert.com 
-appsadvert.com 
-darrydat.com 
 darrydat.com 
 faasalalauga.com 
-faasalalauga.com 
-kutsatsa.com 
 kutsatsa.com 
 liveadsnetwork.com 
 lunadvert.com 
-lunadvert.com 
 metaadsnet.com 
-metaadsnet.com 
-myadvertnet.com 
 myadvertnet.com 
 net4net.net 
 netlineads.com 
-netlineads.com 
 piclivenet.com 
-promoadsense.com
 promoadsense.com 
 publicenred.com 
-publicenred.com 
-publizitate.com 
 publizitate.com 
 
 # COMPROMISED AD SERVERS
