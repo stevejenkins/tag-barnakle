@@ -3,42 +3,38 @@
 # Updated April 22, 2020
 
 # BARNAKLE DOMAINS
-advertwork.com 
-kutsatsa.com 
 ads6net.com 
-netlineads.com 
+ads6net.com 
+advertwork.com 
+advertwork.com 
 appsadvert.com 
-publicenred.com 
-publizitate.com 
-net4net.net 
-lunadvert.com 
+appsadvert.com 
+darrydat.com 
 darrydat.com 
 faasalalauga.com 
-promoadsense.com 
-myadvertnet.com 
+faasalalauga.com 
+kutsatsa.com 
+kutsatsa.com 
 liveadsnetwork.com 
-metaadsnet.com 
-ads6net.com 
-myadvertnet.com 
-advertwork.com 
-publicenred.com 
 lunadvert.com 
-kutsatsa.com 
-appsadvert.com 
-darrydat.com 
+lunadvert.com 
 metaadsnet.com 
-piclivenet.com 
-publizitate.com 
-faasalalauga.com 
+metaadsnet.com 
+myadvertnet.com 
+myadvertnet.com 
+net4net.net 
 netlineads.com 
+netlineads.com 
+piclivenet.com 
 promoadsense.com
+promoadsense.com 
+publicenred.com 
+publicenred.com 
+publizitate.com 
+publizitate.com 
 
 # COMPROMISED AD SERVERS
 10.rallyad-server.net 
-adx.4strokemedia.com 
-ads.financialcontent.com 
-ads.mygc.com.au 
-ox.autolive.be 
 ad.mds.lv 
 ad.rosszlanyok.hu 
 admanager.adintend.com 
@@ -48,8 +44,10 @@ ads.ck101.com
 ads.dresden-airport.de 
 ads.ejz.de 
 ads.financialcontent.com 
+ads.financialcontent.com 
 ads.latinongroup.com 
 ads.motorgraph.com 
+ads.mygc.com.au 
 ads.newsbook.com.mt 
 ads.nitschkeverlag.de 
 ads.playzo.de 
@@ -70,6 +68,7 @@ adserver.nearby.cz
 adserver.wolterskluwer.pl 
 adstdg.net 
 adv.dlh.net 
+adx.4strokemedia.com 
 adx.fotoaparat.cz 
 as2.adserverhd.com 
 asianmedia.com 
@@ -82,6 +81,7 @@ nvpx.adhost.se
 openx.mondiale.co.uk 
 openx.vps48615.mylogin.co 
 openx2.kytary.cz 
+ox.autolive.be 
 pub.macommune.info 
 r.codio.xyz 
 rev.contractoruk.com 
@@ -91,6 +91,7 @@ theleader.info
 treehouse.wwoz.org 
 webwiseforradio.com 
 wer.schwarzwaelder-bote.de 
+ww3.convergenciadigital.com.br
 www.4x4brasil.com.br 
 www.bioverlag-online.de 
 www.boersen-zeitung.de 
@@ -98,5 +99,4 @@ www.diariouno.pe
 www.ecofinads.com 
 www.manga-news.com 
 www.miciudadreal.es 
-www.porovname.cz 
-ww3.convergenciadigital.com.br
+www.porovname.cz
