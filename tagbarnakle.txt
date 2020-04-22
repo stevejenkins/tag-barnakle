@@ -32,7 +32,6 @@ ads.ck101.com
 ads.dresden-airport.de 
 ads.ejz.de 
 ads.financialcontent.com 
-ads.financialcontent.com 
 ads.latinongroup.com 
 ads.motorgraph.com 
 ads.mygc.com.au 
