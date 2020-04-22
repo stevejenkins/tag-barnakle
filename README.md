@@ -3,6 +3,8 @@ A Pi-hole ready blocklist of "Tag Barnakle" hosts compromised by a hacker group.
 
 ```https://raw.githubusercontent.com/stevejenkins/tag-barnakle/master/tagbarnakle.txt```
 
+Block list was created by copying and pasting the compromised domains reported <a href="https://blog.confiant.com/tag-barnakle-the-malvertiser-that-hacks-revive-ad-servers-redirects-victims-to-malware-50cdc57435b1">here</a> and running them through the ```sort``` and ```uniq``` Linux commands.
+
 For more info see:
 - https://blog.confiant.com/tag-barnakle-the-malvertiser-that-hacks-revive-ad-servers-redirects-victims-to-malware-50cdc57435b1
 
