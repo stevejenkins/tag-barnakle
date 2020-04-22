@@ -1,8 +1,8 @@
-# Tag Barnakle Domain Block List
+## Tag Barnakle Domain Block List
 # https://raw.githubusercontent.com/stevejenkins/tag-barnakle/master/tagbarnakle.txt
 # Updated April 22, 2020
 
-# BARNAKLE DOMAINS
+## BARNAKLE DOMAINS
 ads6net.com
 advertwork.com
 appsadvert.com
@@ -21,7 +21,7 @@ promoadsense.com
 publicenred.com
 publizitate.com
 
-# COMPROMISED AD SERVERS
+## COMPROMISED AD SERVERS
 10.rallyad-server.net
 ad.mds.lv
 ad.rosszlanyok.hu
